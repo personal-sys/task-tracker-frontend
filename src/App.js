@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div style={{ padding: 20, fontFamily: "Arial" }}>
-      <h2>Task Tracker</h2>
+      <h2>Task Tracker pro</h2>
 
       <input
         value={title}
